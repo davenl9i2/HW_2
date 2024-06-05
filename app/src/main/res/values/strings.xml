@@ -1,0 +1,13 @@
+    <resources>
+        <string name="app_name">HW2</string>
+        <string name="affirmation1">龍山寺</string>
+        <string name="affirmation2">北投</string>
+        <string name="affirmation3">華山1914文化創意產業園區</string>
+        <string name="affirmation4">淡水</string>
+        <string name="affirmation5">國立故宮博物院</string>
+        <string name="affirmation6">台北 101</string>
+        <string name="affirmation7">大稻埕</string>
+        <string name="affirmation8">貓空纜車</string>
+        <string name="affirmation9">平溪天燈節</string>
+        <string name="affirmation10">陽明山國家公園</string>
+</resources>
